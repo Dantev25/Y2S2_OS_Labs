@@ -36,7 +36,7 @@ void displayStudent(student std){
 void main()
 {
 	student s1, s2;
-	int eld=0,i=1;
+	int i=1;
 	s1 = inputStudent(s1,&i);
 	i++;
 	s2 = inputStudent(s2,&i);
